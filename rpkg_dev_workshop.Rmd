@@ -28,7 +28,7 @@ usethis::use_package_doc()
 usethis::use_readme_rmd()
 
 # creates license file
-usethis::use_mit_license("Sahir Bhatnagar")
+usethis::use_mit_license("Setor Amuzu")
 
 # creates news file
 usethis::use_news_md()
